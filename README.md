@@ -1,2 +1,5 @@
-# hello-world
-just another reposilory
+hello-world
+===========
+
+hi humans!
+i like js!
